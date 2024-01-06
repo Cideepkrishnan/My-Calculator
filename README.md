@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+![Screenshot_1704527192](https://github.com/Cideepkrishnan/My-Calculator/assets/145324710/eb8ea870-0f6d-4001-b3b3-7b29825c9b45)
 
-This project is a starting point for a Flutter application.
+![Screenshot_1704527194](https://github.com/Cideepkrishnan/My-Calculator/assets/145324710/a3c3b317-5d05-4e76-828c-6bf8204f1c19)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1704527199](https://github.com/Cideepkrishnan/My-Calculator/assets/145324710/2e0d0394-7db3-449f-a829-e21ea7a6f8fc)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1704527206](https://github.com/Cideepkrishnan/My-Calculator/assets/145324710/50295bb7-b2c0-4317-a9f6-08650ecc9ef8)
