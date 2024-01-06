@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:my_calculator/view/home_screen/widgets/pop_screen/pop_screen/pop_screen.dart';
 
 import '../../model/button_values/button_values.dart';
 
@@ -18,11 +20,17 @@ class _HomeScreenState extends State<HomeScreen> {
     final screenSize = MediaQuery.of(context).size;
     return Scaffold(
       appBar: AppBar(
+        actions: [
+          Pop_screen(),
+        ],
         backgroundColor: const Color.fromARGB(255, 46, 46, 46),
         elevation: 0,
         title: Text(
           "Calculator",
-          style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),
+          style: GoogleFonts.poppins(
+              textStyle: TextStyle(
+            fontSize: 25,
+          )),
         ),
       ),
       body: SafeArea(
